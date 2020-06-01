@@ -37,3 +37,6 @@ All .png resources are from the Internet.
 ### Run demo
 
 
+![running Pacman](resources/textures/start_menu.png)
+
+![running Pacman](demo-imgs/run.png)
